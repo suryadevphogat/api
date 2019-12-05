@@ -1,6 +1,6 @@
 # Quiz API
 
-This is a simple quiz API for use in assignments and technical interviews.
+This is a simple quiz API for use in assignments.
 
 You can try it out yourself [here][deploy]!
 
